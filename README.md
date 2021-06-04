@@ -20,5 +20,3 @@ Pour les cables je vous conseille ceux la : https://www.amazon.fr/Elegoo-Breadbo
 
 Les fichiers stl se trouve dans le dossier "fichier_3d" vous y trouverais aussi les fichiers .f3d
 Tout les fichiers ont étaient imprimé sur une ender 3 en 0.16mm en hauteur de couche et 5% de remplissage en triangle
-
-Les projets est open_source libre a vous de le modifier ou de le réaliser
